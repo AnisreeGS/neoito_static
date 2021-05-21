@@ -93,6 +93,9 @@
 .row2 .col1{
     width: 70%;
 }
+.row2 .col1row2{
+    color: grey;
+}
 .row2 .container .col1 .col1_col1row2{
     display:none;
 
@@ -270,6 +273,7 @@
     font-size: 12px;
     letter-spacing: 1px;
     margin-top: 20px;
+    color:grey;
 }
 
 .r4row1col1 .button{
